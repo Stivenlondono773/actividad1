@@ -1,4 +1,4 @@
-#variables
+#variables, if, elif
 
 nombre = str ( input("digie su nombre "))
 apellido = str (input ("digite sus apellidos "))
