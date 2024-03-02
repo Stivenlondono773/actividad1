@@ -1,3 +1,5 @@
+#wile 
+
 estudiantes = 0
 nombre_estudiante = str(input("ingrese su nombre completo "))
 edad_estudiante = int (input("ingrese su edad"))

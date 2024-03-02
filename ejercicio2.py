@@ -1,3 +1,6 @@
+#float, variables,inputs
+
+
 """""En la empresa donde trabajo calculamos la cantidad de MFC(GLIOXAL) que se le agrega a un tanque
 teniendo encuenta que su capacidad maxima es de 1000 litros, para esos 1000 litros se necesitan
 una camtidad determinada de  MFC(GLIOXAL). el requerimiento es hacer una app que calcule la cantidad de mfc, dependiendo 
